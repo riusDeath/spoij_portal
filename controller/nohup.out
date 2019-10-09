@@ -1,0 +1,909 @@
+22PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java 1 3 PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java -7 10 2PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java 1 3 PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java -7 10 2PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java 1 3 PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java -7 10 2PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java 1 3 PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java -7 10 2PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java 1 3 PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java -7 10 2PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java 1 3 PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java -7 10 2PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java 1 3 PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java -7 10 2PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java 1 3 PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java -7 10 2PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java 1 3 PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java -7 10 2PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java 1 3 PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java -7 10 232PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10result combine: 3
+
+032PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+032PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+
+testcase output: 4
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+
+testcase output: 3
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+
+testcase output: 4
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+
+testcase output: 3
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+
+testcase output: 4
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+
+testcase output: 3
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+
+testcase output: 4
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+
+testcase output: 3
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+
+testcase output: 4
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+
+testcase output: 3
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+
+testcase output: 4
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+
+testcase output: 3
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+
+testcase output: 4
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+
+testcase output: 3
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+
+testcase output: 4
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+
+testcase output: 3
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+
+testcase output: 4
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+
+testcase output: 3
+0PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+
+
+testcase output: 4
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:31
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+
+
+testcase output: 3
+0PHP Notice:  Undefined offset: 1 in /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php on line 14
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP Notice:  Undefined offset: 1 in /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php on line 17
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP Notice:  Undefined offset: 0 in /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php on line 17
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP Notice:  Trying to get property 'num_rows' of non-object in /var/www/html/Portal_Spoij/spoj_portal/config/lib/dblib.php on line 150
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. resultContest() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:21
+PHP   3. setup_DB->excuteSelect() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:35
+PHP Notice:  Undefined offset: 0 in /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php on line 35
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. resultContest() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:21
+0PHP Warning:  Division by zero in /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php on line 57
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:30
+41PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:30
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: 4
+abc
+testcase output: 4abc
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:30
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: 3
+abc
+testcase output: 3abc
+042PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:30
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3  File "/var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py", line 2
+    print(int(a)+int(b), end='')
+                            ^
+SyntaxError: invalid syntax
+
+result combine: abc
+testcase output: 4abc
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:30
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10  File "/var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py", line 2
+    print(int(a)+int(b), end='')
+                            ^
+SyntaxError: invalid syntax
+
+result combine: abc
+testcase output: 3abc
+043PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:30
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java 1 3 /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java:1: error: class, interface, or enum expected
+def add(a, b):
+^
+/var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java:3: error: empty character literal
+	print(c, end='')
+	             ^
+/var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java:5: error: unclosed character literal
+if __name__ == '__main__':
+               ^
+/var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java:5: error: unclosed character literal
+if __name__ == '__main__':
+                        ^
+/var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java:6: error: '.' expected
+   import sys
+             ^
+5 errors
+error: compilation failed
+
+result combine: abc
+testcase output: 4abc
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 10
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:30
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compileJava() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:33
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:10
+java /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java -7 10 /var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java:1: error: class, interface, or enum expected
+def add(a, b):
+^
+/var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java:3: error: empty character literal
+	print(c, end='')
+	             ^
+/var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java:5: error: unclosed character literal
+if __name__ == '__main__':
+               ^
+/var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java:5: error: unclosed character literal
+if __name__ == '__main__':
+                        ^
+/var/www/html/Portal_Spoij/spoj_portal/storage/src/java/add.java:6: error: '.' expected
+   import sys
+             ^
+5 errors
+error: compilation failed
+
+result combine: abc
+testcase output: 3abc
+044PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:30
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py 1 3
+result combine: (4,)
+abc
+testcase output: 4abc
+PHP Warning:  chmod(): Operation not permitted in /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php on line 3
+PHP Stack trace:
+PHP   1. {main}() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:0
+PHP   2. percentCombineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/workerjob.php:30
+PHP   3. combineCode() /var/www/html/Portal_Spoij/spoj_portal/controller/MarkController.php:47
+PHP   4. compilePython() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:35
+PHP   5. chmod() /var/www/html/Portal_Spoij/spoj_portal/config/combine/config.php:3
+python /var/www/html/Portal_Spoij/spoj_portal/storage/src/py/add.py -7 10
+result combine: (3,)
+abc
+testcase output: 3abc
+0
